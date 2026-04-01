@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“48291”}
-
 🏦 Simple Banking System (Python)
 
 📌 Project Overview
